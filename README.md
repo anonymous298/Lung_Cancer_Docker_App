@@ -4,6 +4,10 @@ This repository contains a **Lung Cancer Prediction Application** built using **
 
 ---
 
+![lung](https://github.com/user-attachments/assets/1869ca6f-6bae-4cfa-b398-52bf7d00eb30)
+
+---
+
 ## Features
 - **Machine Learning & Deep Learning Models**: The application utilizes trained neural networks for lung cancer prediction.
 - **Flask Web Application**: A simple and user-friendly interface for making predictions.
